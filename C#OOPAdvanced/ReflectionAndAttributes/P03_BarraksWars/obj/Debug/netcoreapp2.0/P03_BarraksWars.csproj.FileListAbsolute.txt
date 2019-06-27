@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

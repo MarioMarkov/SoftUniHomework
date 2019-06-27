@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\bin\Debug\netcoreapp2.1\SolidLogger.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\bin\Debug\netcoreapp2.1\SolidLogger.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\bin\Debug\netcoreapp2.1\SolidLogger.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\bin\Debug\netcoreapp2.1\SolidLogger.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\bin\Debug\netcoreapp2.1\SolidLogger.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\SolidLogger\SolidLogger\obj\Debug\netcoreapp2.1\SolidLogger.pdb

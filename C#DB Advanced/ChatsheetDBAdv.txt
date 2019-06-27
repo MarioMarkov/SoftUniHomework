@@ -1,0 +1,14 @@
+//Many to Many Relation
+ modelBuilder.Entity<StudentCourse>(entity =>
+            {
+                entity.HasKey(k =>new { k.CourseId,k.StudentId});
+
+                entity.HasOne(x => x.Student)
+                 .WithMany(x => x.CourseEnrollments)
+                 .HasForeignKey(x => x.StudentId);
+
+                entity.HasOne(x => x.Course)
+                .WithMany(x => x.StudentsEnrolled)
+                .HasForeignKey(x => x.CourseId);
+                
+            });

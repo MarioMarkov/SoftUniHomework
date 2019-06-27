@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\bin\Release\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\bin\Release\netstandard2.0\SIS.HTTP.dll
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\bin\Release\netstandard2.0\SIS.HTTP.pdb
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.dll
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\SIS.HTTP\obj\Release\netstandard2.0\SIS.HTTP.pdb

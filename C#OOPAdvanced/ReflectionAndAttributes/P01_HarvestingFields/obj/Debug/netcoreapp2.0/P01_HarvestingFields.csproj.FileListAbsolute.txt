@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb

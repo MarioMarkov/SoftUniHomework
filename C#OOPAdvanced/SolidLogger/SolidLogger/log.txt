@@ -1,0 +1,57 @@
+  <header >
+                <ul class= "nav">
+                      <li class="btn-res"><a href="/reservation" class ="nav-link">Направи Резервация</a></li>
+                    <li class="nav-item"><a href="/index" class ="nav-link">Начало</a>
+                  </li>
+                    <li class="nav-item"><a href="/about" class ="nav-link">За нас</a></li>
+                    <li class="nav-item"><a href="/accommodation" class ="nav-link">Настаняване</a></li>
+                    <li class="nav-item"><a href="/foodanddrinks" class ="nav-link">Заведения и хранене</a></li>
+                    <li class="nav-item"><a href="/prices" class ="nav-link">Цени</a></li>
+                    <li class="nav-item"><a href="/reservations" class ="nav-link">Резервации</a></li>
+                    <li class="nav-item"><a href="/gallery" class ="nav-link">Галерия</a></li>
+                    <li class="nav-item"><a href="/services" class ="nav-link">Услуги</a></li>
+                    <li class="nav-item"><a href="/contacts" class ="nav-link">Контакти</a></li>
+                </ul>
+            </header>
+            <img class="bg-img" src="img/hotel_img1.jpg" alt="Hotel">
+    
+            <div class="reservation-form">
+                    <select class="guests-form">
+                            <option value="0">Select guests:</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                        </select>
+                        <select class="rooms-form">
+                            <option value="0">Select rooms:</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+                        <a href="/index.html">Провери Наличност</a>
+              </div>
+    
+          <section class="wrapper">
+            <img class="text-img" src="img/beach_img.jpg" alt="beach_img">
+            <div>
+              Lorem ipsum dolor sit, amet consectetur 
+              adipisicing elit. Alias, ducimus. 
+              Rem soluta obcaecati adipisci 
+              corrupti veritatis aliquam 
+              odit laboriosam earum repellat 
+              quae sit, ea, ex fugiat quia! Quod, vero qui.
+            </div>
+            <img class="text-img" src="img/apartment_img.jpg" alt="beach_img">
+            <div>
+              Lorem ipsum dolor sit, amet consectetur 
+              adipisicing elit. Alias, ducimus. 
+              Rem soluta obcaecati adipisci 
+              corrupti veritatis aliquam 
+              odit laboriosam earum repellat 
+              quae sit, ea, ex fugiat quia! Quod, vero qui.
+            </div>
+          </section>

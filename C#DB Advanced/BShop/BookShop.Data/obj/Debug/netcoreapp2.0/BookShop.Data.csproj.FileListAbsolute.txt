@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CopyComplete
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\PC\Desktop\SoftUni\C#DB Advanced\BShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb

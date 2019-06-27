@@ -1,0 +1,26 @@
+public static string GetProductsInRange(ProductShopContext context)
+        {
+            var products = context
+                    .Products
+                    .Where(p=> p.Price>=500&&p.Price<=1000)
+                    .OrderBy(p=> p.Price)
+                    .Select(p=> new ExportProductInRangeDto()
+                    {
+                        Name = p.Name,
+                        Price = p.Price,
+                        Buyer = p.Buyer.FirstName+ " "+ p.Buyer.LastName
+                    })
+                    .Take(10)
+                    .ToArray();
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportProductInRangeDto[]), new XmlRootAttribute("Products"));
+
+            var sb = new StringBuilder();
+
+            var nameSpeces = new XmlSerializerNamespaces(new[]
+            {
+                new XmlQualifiedName("",""), 
+            });
+
+            xmlSerializer.Serialize(new StringWriter(sb),products);
+            return sb.ToString().TrimEnd();
+        }

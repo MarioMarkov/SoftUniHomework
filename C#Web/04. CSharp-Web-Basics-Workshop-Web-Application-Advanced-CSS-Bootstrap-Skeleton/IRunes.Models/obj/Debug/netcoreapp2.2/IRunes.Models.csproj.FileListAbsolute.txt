@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.deps.json
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.dll
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\bin\Debug\netcoreapp2.2\IRunes.Models.pdb
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.dll
+C:\Users\PC\Desktop\SoftUni\C#Web\04. CSharp-Web-Basics-Workshop-Web-Application-Advanced-CSS-Bootstrap-Skeleton\IRunes.Models\obj\Debug\netcoreapp2.2\IRunes.Models.pdb

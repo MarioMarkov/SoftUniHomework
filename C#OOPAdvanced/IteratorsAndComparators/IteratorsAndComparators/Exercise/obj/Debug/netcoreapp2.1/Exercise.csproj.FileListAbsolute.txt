@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\bin\Debug\netcoreapp2.1\Exercise.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\bin\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\bin\Debug\netcoreapp2.1\Exercise.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\IteratorsAndComparators\IteratorsAndComparators\Exercise\obj\Debug\netcoreapp2.1\Exercise.pdb

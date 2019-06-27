@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\UnitTesting\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.pdb

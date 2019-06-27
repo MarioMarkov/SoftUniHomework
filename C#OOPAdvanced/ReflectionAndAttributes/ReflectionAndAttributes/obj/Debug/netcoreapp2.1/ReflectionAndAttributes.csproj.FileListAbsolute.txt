@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.deps.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.runtimeconfig.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.runtimeconfig.dev.json
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\bin\Debug\netcoreapp2.1\ReflectionAndAttributes.pdb
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.AssemblyInfo.cs
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.dll
+C:\Users\PC\Desktop\SoftUni\C#OOPAdvanced\ReflectionAndAttributes\ReflectionAndAttributes\obj\Debug\netcoreapp2.1\ReflectionAndAttributes.pdb
